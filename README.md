@@ -1,6 +1,6 @@
 # Workstation
 
-Install Brew and run Brewfile:
+Install Brew and run bundle:
 ```bash
 ./brew.sh
 ```

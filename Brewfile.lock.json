@@ -1,0 +1,125 @@
+{
+  "entries": {
+    "cask": {
+      "iterm2": {
+        "version": "3.3.12",
+        "options": {
+          "full_name": "iterm2"
+        }
+      },
+      "notion": {
+        "version": "2.0.7",
+        "options": {
+          "full_name": "notion"
+        }
+      },
+      "zoomus": {
+        "version": "5.1.28648.0705",
+        "options": {
+          "full_name": "zoomus"
+        }
+      },
+      "fork": {
+        "version": "1.0.95",
+        "options": {
+          "full_name": "fork"
+        }
+      },
+      "visual-studio-code": {
+        "version": "1.46.1",
+        "options": {
+          "full_name": "visual-studio-code"
+        }
+      },
+      "1password": {
+        "version": "7.6",
+        "options": {
+          "full_name": "1password"
+        }
+      },
+      "dropbox": {
+        "version": "latest",
+        "options": {
+          "full_name": "dropbox"
+        }
+      },
+      "telegram": {
+        "version": "6.2.3.202354",
+        "options": {
+          "full_name": "telegram"
+        }
+      },
+      "docker": {
+        "version": "2.3.0.3,45519",
+        "options": {
+          "full_name": "docker"
+        }
+      },
+      "google-chrome": {
+        "version": "83.0.4103.116",
+        "options": {
+          "full_name": "google-chrome"
+        }
+      },
+      "upwork": {
+        "version": "5.4.2.3,6b1022fbf8794731",
+        "options": {
+          "full_name": "upwork"
+        }
+      },
+      "skype": {
+        "version": "8.62.0.85",
+        "options": {
+          "full_name": "skype"
+        }
+      },
+      "spotify": {
+        "version": "latest",
+        "options": {
+          "full_name": "spotify"
+        }
+      },
+      "dash": {
+        "version": "5.1.7",
+        "options": {
+          "full_name": "dash"
+        }
+      },
+      "cyberduck": {
+        "version": "7.4.1.33065",
+        "options": {
+          "full_name": "cyberduck"
+        }
+      },
+      "font-fira-code": {
+        "version": "5.2",
+        "options": {
+          "full_name": "font-fira-code"
+        }
+      }
+    },
+    "brew": {
+      "gpg": null
+    },
+    "tap": {
+      "homebrew/cask": {
+        "revision": "6f905dc9f237c00bf06640f16b48ae19e95c91d4"
+      },
+      "homebrew/cask-fonts": {
+        "revision": "304aa3d2b602c9eb1abf13c34c1cb18b329977bc"
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "catalina": {
+        "HOMEBREW_VERSION": "2.4.5",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "7f2e83a85d7f1b88e72b23cf8f4578f7706039c0",
+        "CLT": "11.5.0.0.1.1588476445",
+        "Xcode": "11.5",
+        "macOS": "10.15.5"
+      }
+    }
+  }
+}

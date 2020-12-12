@@ -18,6 +18,12 @@ Install App Store applications:
 ./mas.sh
 ```
 
+Install fonts:
+
+```bash
+./fonts.sh
+```
+
 Sync files with iCloud:
 
 ```bash

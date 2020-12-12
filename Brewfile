@@ -18,9 +18,9 @@ cask 'cyberduck'
 cask 'private-internet-access'
 cask 'pgadmin4'
 
-tap "homebrew/cask-fonts"
-cask 'font-fira-code'
-
 brew 'awscli'
 brew 'aws-iam-authenticator'
 brew 'kubectl'
+
+brew 'tmux'
+brew 'tmuxinator'
